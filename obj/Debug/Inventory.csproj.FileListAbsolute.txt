@@ -1,0 +1,10 @@
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+D:\STI Handouts\Event-Driven Programming\repos\Inventory\Inventory\obj\Debug\Inventory.frmAddProduct.resources
